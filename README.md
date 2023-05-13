@@ -3,13 +3,13 @@
 
 ## Available Scripts
 
-### `npm start`
+### npm start
 Inicia o servidor em seu browser [http://localhost:3000].
 
-## `npm install react-icons`
+## npm install react-icons
 Instalar react-icons em seu projeto.
 
-## `npm install react-toastify --save`
+## npm install react-toastify --save
 Instalar react-toastify em seu projeto.
 
 ## Leia mais
