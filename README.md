@@ -5,14 +5,20 @@
 ## Available Scripts
 
 ### npm start
+  
 Inicia o servidor em seu browser [http://localhost:3000].
 
+  
 ## npm install react-icons
+  
 Instalar react-icons em seu projeto.
 
+  
 ## npm install react-toastify --save
+  
 Instalar react-toastify em seu projeto.
 
+  
 ## Leia mais
 
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) <br>
