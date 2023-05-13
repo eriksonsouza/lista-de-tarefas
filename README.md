@@ -1,21 +1,16 @@
-<h1> Projeto criado com Create React App <h1>
-  
+## Projeto criado com Create React App
 [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 ### npm start
-  
 Inicia o servidor em seu browser [http://localhost:3000].
 
   
 ## npm install react-icons
-  
 Instalar react-icons em seu projeto.
 
   
 ## npm install react-toastify --save
-  
 Instalar react-toastify em seu projeto.
 
   
