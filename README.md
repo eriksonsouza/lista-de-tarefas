@@ -1,4 +1,4 @@
-# Projeto criado com Create React App
+# Projeto criado com React
 [Create React App](https://github.com/facebook/create-react-app) <br><br>
 
 #### Iniciar o servidor em seu browser [http://localhost:3000]:
