@@ -1,20 +1,25 @@
 # Projeto criado com Create React App
 [Create React App](https://github.com/facebook/create-react-app) <br>
 
-
-### npm start
-Inicia o servidor em seu browser [http://localhost:3000].
-
-  
-### npm install react-icons
-Instalar react-icons em seu projeto.
+#### Inicia o servidor em seu browser [http://localhost:3000]:
+```
+npm start
+```
 
   
-### npm install react-toastify --save
-Instalar react-toastify em seu projeto.
+#### Instalar react-icons em seu projeto:
+```
+npm install react-icons
+```
 
   
-### Leia mais
+#### Instalar react-toastify em seu projeto:
+```
+npm install react-toastify --save
+```
+
+  
+#### Leia mais
 
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) <br>
 [React documentation](https://reactjs.org/) <br>
